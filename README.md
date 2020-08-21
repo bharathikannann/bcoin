@@ -13,6 +13,8 @@
     - `Transperancy`
     - `Immutability`
 
+Take a look at the simple implementation of [blockchain](https://github.com/bharathikannan1311/Python/blob/master/Blockchain/blockchain.py). Bcoin is built on top of this blockchain implementation.
+
 Find more information in the [original paper](https://bitcoin.org/bitcoin.pdf).
 
 Take a look at the original [bitcoin repository](https://github.com/bitcoin/bitcoin).
@@ -70,7 +72,7 @@ Clone this repository `https://github.com/bharathikannan1311/bcoin.git`
     <img src="Images/ConnectingNode3.png" height=350px width=400px>
 
 ### `Adding Transactions`
-- Transaction can be added as a post method in postman
+- Transaction can be added as a post method in postman.
 
     <img src="Images/AddingTransaction.png" height=350px width=500px>
 
@@ -88,6 +90,7 @@ Clone this repository `https://github.com/bharathikannan1311/bcoin.git`
 
 ## `Bcoin Blockchain`
 
+- Blockchain after mining 5 times will be
 ```JSON
 {
   "chain": [
