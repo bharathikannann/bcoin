@@ -77,14 +77,14 @@ Clone this repository `https://github.com/bharathikannan1311/bcoin.git`
 ### `Mining the block`   
 - We can then mine the block and we will be rewarded with some bcoin.
 
-    <img src="Images/MiningBlock.png" height=400px width=500px>
+    <img src="Images/MiningBlock.png" height=450px width=500px>
 
 ### `Updating the nodes`
 
 - Since it is a distributed system if one block mines and update the chain all other nodes should update their chain.
 - We will replace the chain with the longest valid chain by checking all other nodes otherwise we will not update.
 
-    <img src="Images/Replacechain.png" height=450px width=500px>
+    <img src="Images/Replacechain.png" height=550px width=500px>
 
 ## `Bcoin Blockchain`
 
