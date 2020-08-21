@@ -33,7 +33,7 @@ Install flask and requests through pip(python package installer) in your command
     pip install flask
     ```
 
-Clone this repository ``
+Clone this repository `https://github.com/bharathikannan1311/bcoin.git`
 
 - After cloning just go into the folder and run the bcoin.py file.
     - Example
@@ -49,9 +49,10 @@ Clone this repository ``
 
 - Then open your postman desktop app and test your application.
     - Example
-    <img>
+
+    <img src="Images/Apptestinpostman.png" height=300px width=500px>
 
 ## How this code works
 
-`bcoin.py`
-
+- Running the file will create a node. It will create a genisis block at first and then you can add transactions and mine the block. As a reward for this you will receive some coins. 
+    - 
