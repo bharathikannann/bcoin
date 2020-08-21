@@ -53,6 +53,27 @@ Clone this repository `https://github.com/bharathikannan1311/bcoin.git`
     <img src="Images/Apptestinpostman.png" height=300px width=500px>
 
 ## How this code works
+`bcoin.py`
 
-- Running the file will create a node. It will create a genisis block at first and then you can add transactions and mine the block. As a reward for this you will receive some coins. 
-    - 
+- Running the file will create a node. It will create a genisis block at first and then you can add transactions and mine the block. As a reward for this you will receive some coins.
+    - Consensus Mechanism - `Proof of work`
+
+`bccoin_node_5001.py`<br>
+`bccoin_node_5002.py`<br>
+`bccoin_node_5003.py`
+
+- Running these files seperately will create three nodes in your local machine.
+- Connect these nodes in the post man using the POST request in postman 
+
+    <img src="Images/ConnectingNode1.png" height=200px width=300px>
+    <img src="Images/ConnectingNode2.png" height=200px width=300px>
+    <img src="Images/ConnectingNode3.png" height=200px width=300px>
+
+`Adding Transactions`
+- Transaction can be added as a post method in postman
+
+    <img src="Images/AddingTransaction.png" height=200px width=300px>
+
+`Mining the block`   
+- We can then mine the block and we will be rewarded with some bcoin.
+    <img src="Images/MiningBlock.png" height=250px width=300px>
