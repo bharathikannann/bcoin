@@ -67,26 +67,27 @@ Clone this repository `https://github.com/bharathikannan1311/bcoin.git`
 
     <img src="Images/ConnectingNode1.png" height=300px width=400px>
     <img src="Images/ConnectingNode2.png" height=300px width=400px>
-    <img src="Images/ConnectingNode3.png" height=300px width=400px>
+    <img src="Images/ConnectingNode3.png" height=350px width=400px>
 
-`Adding Transactions`
+### `Adding Transactions`
 - Transaction can be added as a post method in postman
 
-    <img src="Images/AddingTransaction.png" height=300px width=400px>
+    <img src="Images/AddingTransaction.png" height=350px width=500px>
 
-`Mining the block`   
+### `Mining the block`   
 - We can then mine the block and we will be rewarded with some bcoin.
 
-    <img src="Images/MiningBlock.png" height=350px width=400px>
+    <img src="Images/MiningBlock.png" height=350px width=500px>
 
-`Updating the nodes`
+### `Updating the nodes`
 
 - Since it is a distributed system if one block mines and update the chain all other nodes should update their chain.
 - We will replace the chain with the longest valid chain by checking all other nodes otherwise we will not update.
 
-    <img src="Images/Replacechain.png" height=350px width=400px>
+    <img src="Images/Replacechain.png" height=350px width=500px>
 
-## Bcoin Blockchain
+## `Bcoin Blockchain`
+
 ```JSON
 {
   "chain": [
