@@ -178,4 +178,4 @@ Clone this repository `https://github.com/bharathikannan1311/bcoin.git`
 }
 ```
 
-***Inspired by: https://www.udemy.com/course/build-your-blockchain-az/**
+***Inspired by: https://www.udemy.com/course/build-your-blockchain-az/***
